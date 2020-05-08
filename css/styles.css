@@ -1,0 +1,99 @@
+body {
+    text-align: center;  
+}
+
+h3 {
+    font-family: 'Kalam', cursive;
+}
+
+span {
+    font-family: 'Kalam', cursive;
+}
+
+#header {
+    background-color: #007bff;
+    padding: 10px 20px;
+}
+
+.logo {
+    color: #fff;
+    margin: 20px 0;
+    
+}
+
+.head-text {
+    color: aliceblue;
+}
+
+.button-header {
+    margin: 15px 0;
+    background-color: blue;
+}
+
+.button-header:hover {
+    background-color: green;
+}
+
+#create-account {
+    padding: 30px 20px;
+}
+
+.top-content {
+    background-color: aliceblue;
+}
+
+.account-text {
+    padding: 20px;
+    color: #007bff;
+    font-family: 'Kalam', cursive;
+}
+
+.social-img {
+    border-radius: 100%;
+}
+
+.bottom-content {
+    background-color: #007bff;
+}
+
+.create-head {
+    margin: 15px auto;
+    color: aliceblue;
+}
+
+.create-text {
+    padding: 10px;
+    font-family: 'Kalam';
+    line-height: 1.5;
+}
+
+.blank {
+    display: block;
+    margin:20px auto;
+    
+    width: 400px;
+}
+
+.button-account {
+    display: block;
+    margin: 15px auto;
+    background-color: blue;
+    width: 70%;
+}
+
+#footer {
+    padding: 30px 20px;
+    background-color: aliceblue;
+}
+
+.footer-link {
+    color: #007bff;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer-link:hover {
+    color: green;
+    text-decoration: none;
+    font-family: 'Kalam';
+}
